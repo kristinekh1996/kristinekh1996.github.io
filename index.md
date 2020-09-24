@@ -1,18 +1,3 @@
 это мой первый   сайт
 Кристине Хачатрян
-<?xml version=" 1.0 "encoding=" US-ASCII"?>
-<!DOCTYPE html PUBLIC "- / / W3C/ / DTD XHTML 1.0 Strict / / EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<голова>
-<title>>i-gold-new-year-wood-background-boke< /title>
-< /head>
-<body style= "text-align: center;">
-<h1>>/ конвертировать/dJtY42w/i-золото-Новый год-дерево-фон-боке.html< /h1>
-<div>
-<img usemap="#i-gold-new-year-wood-background-boke" src="/convert/dJtY42w/i-gold-new-year-wood-background-boke.png" style="border: 0;" alt="Image map" />
-<map id="i-gold-new-year-wood-background-boke" name="i-gold-new-year-wood-background-boke">
-  <area href="/convert/dJtY42w/i-gold-new-year-wood-background-boke.html" shape="rect" coords="0,0,799,1243" alt="" />
-</map>
-</div>
-</body>
-</html>
+<img usemap="#i-gold-new-year-wood-backg
