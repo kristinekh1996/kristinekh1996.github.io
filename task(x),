@@ -1,0 +1,8 @@
+function task(x) {
+if ((x.length == 5) && (x.charCodeAt(0) == 0))  {
+return true;
+      }
+else if ((x.length == 3) && x.charCodeAt(0) == 1)) {
+return false;
+      }
+ }
